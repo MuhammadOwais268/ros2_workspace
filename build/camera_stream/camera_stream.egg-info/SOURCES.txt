@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+camera_stream/__init__.py
+camera_stream/camera_node.py
+camera_stream.egg-info/PKG-INFO
+camera_stream.egg-info/SOURCES.txt
+camera_stream.egg-info/dependency_links.txt
+camera_stream.egg-info/entry_points.txt
+camera_stream.egg-info/requires.txt
+camera_stream.egg-info/top_level.txt
+camera_stream.egg-info/zip-safe
+resource/camera_stream
